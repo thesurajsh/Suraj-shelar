@@ -1,30 +1,4 @@
 
-
-Inductive Proximity Sensor - ₹ 162.00 -------- https://robu.in/product/tube-type-inductive-proximity-sensor-detection-switch-npn-dc6-36v-4mm-normally-open-proximity-switch-lj12a3-4-zbx/#reviews
-
-Capacitive inductive sensor   
-Servo sg 90 x 1
-
-16 Mhz Crystal Oscillator - 8
-Buzzer 5v x 1
-10k Resistor x 1
-1 k Resistor x 1
-Gear motor
-103 Preset x1 (10k)
-conveyor belt
-DC Motor
-LED x 1
-12 v 2 amp Power supply
-Female power jack connector x1
-
-
-
-inductive sensor-  https://robu.in/product/orange-8mm-pnp-inductive-proximity-sensor-rm18-dc636v-unshielded/?gad_source=1&gclid=CjwKCAiAmZGrBhAnEiwAo9qHif85k3W0rPZcYtR_LWgIzhofno89s7C7qsk9yx_Ac--2L66eJB2gARoCkioQAvD_BwE
-
-
-
-
-
 ### Hi there! 👋
 
 I'm Suraj Shelar, a passionate software engineer currently pursuing my BTech. My coding journey has led me through the realms of Java, C++, Python, C, SQL, and the intricate world of Database Management Systems.
